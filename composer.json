@@ -1,0 +1,14 @@
+{
+    "name": "jsposato/jira-importer",
+    "description": "CSV Importer forPHP  Issues into JIRA using REST API",
+    "require": {
+        "curl/curl": "1.3.*"
+    },
+    "authors": [
+        {
+            "name": "John Sposato",
+            "email": "jsposato@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
